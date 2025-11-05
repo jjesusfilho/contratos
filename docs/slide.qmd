@@ -23,7 +23,7 @@ Esta aula apresenta a transformação contemporânea do contrato — de texto no
 
 - O contrato foi, historicamente, o símbolo da autonomia privada e da liberdade negocial.  
 - Com o avanço da tecnologia, torna-se também uma fonte de dados, analisável em escala.  
-- O **Contract Analytics** surge como disciplina híbrida: combina estatística, ciência de dados e dogmática jurídica.  
+- O **Contract Analytics** surge como disciplina híbrida: combina computação, aprendizado estatístico e dogmática jurídica.
 - O problema: **a racionalização técnica pode reproduzir desigualdades estruturais sob a aparência de neutralidade.**  
 
 
@@ -264,6 +264,9 @@ Esta segunda parte aprofunda o debate epistemológico e ético inaugurado na Par
 | **Martin** | Engenharia e padronização contratual | Formalismo e hegemonia corporativa |
 | **Ghodoosi & Kastner** | Crítica empírica ao textualismo | Falta de proposta normativa |
 | **Eboigbe** | Reconciliação entre IA e racionalidade jurídica | Risco de otimismo técnico |
+
+## 1. Comparação entre Autores
+
 | **Frankenreiter & Nyarko** | Limite epistemológico do NLP | Foco excessivo no diagnóstico técnico |
 | **MPSP** | Jurimetria aplicada e crítica institucional | Escala e replicabilidade limitadas |
 
