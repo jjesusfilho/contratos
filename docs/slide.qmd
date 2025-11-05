@@ -2,6 +2,7 @@
 title: "Analytics de Contratos: Entre Eficiência, Poder e Justiça"
 author: "Prof. José de Jesus Filho"
 bibliography: biblio.bib
+csl: http://www.zotero.org/styles/civitas-revista-de-ciencias-sociais
 format:
   revealjs:
     theme: white
@@ -267,6 +268,8 @@ Esta segunda parte aprofunda o debate epistemológico e ético inaugurado na Par
 
 ## 1. Comparação entre Autores
 
+| Autor | Contribuição | Limite |
+|-------|---------------|---------|
 | **Frankenreiter & Nyarko** | Limite epistemológico do NLP | Foco excessivo no diagnóstico técnico |
 | **MPSP** | Jurimetria aplicada e crítica institucional | Escala e replicabilidade limitadas |
 
