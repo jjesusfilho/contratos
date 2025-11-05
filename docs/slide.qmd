@@ -1,12 +1,18 @@
 ---
 title: "Analytics de Contratos: Entre Eficiência, Poder e Justiça"
 author: "Prof. José de Jesus Filho"
+bibliography: biblio.bib
 format:
   revealjs:
     theme: white
     transition: fade
     slide-number: true
+nocite: |
+  @simon1962architecture, @ghodoosi2024bigdata, @martin2018deconstructing, 
+  @frankenreiter2023nlp, @eboigbe2024ai, @mpsp2024consignado, @zamir2019behavioral,
 ---
+
+![Código QR](WROpqu.png)
 
 ## Introdução
 
@@ -273,14 +279,4 @@ Esta segunda parte aprofunda o debate epistemológico e ético inaugurado na Par
 - A eficiência deve ser humanizada pela crítica.  
 - O jurista do século XXI é mediador entre algoritmo e justiça.  
 
-
 ## Referências
-
-
-- Eboigbe, E. (2024). *AI in Legal Analytics*. SSRN.  
-- Frankenreiter, J. & Nyarko, J. (2023). *Natural Language Processing in Legal Tech*.  
-- Ghodoosi, F. & Kastner, T. (2024). *Big Data on Contract Interpretation*. *UC Davis Law Review*, 57(4).
-- Martin, K. (2018). *Deconstructing Contracts*. In Walters, E. (Ed.), *Data-Driven Law*. Routledge.
-- Ministério Público do Estado de São Paulo (2024). *Crédito consignado para pessoas idosas no Estado de São Paulo*. São Paulo.  
-- Zamir, E. (2019). *Behavioral Law and Economics*. Oxford University Press.  
-- Simon, H. (1962). *The Architecture of Complexity*. *Proceedings of the American Philosophical Society*.  
