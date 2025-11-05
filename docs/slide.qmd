@@ -10,7 +10,7 @@ format:
 
 ## Introdução
 
-O presente trabalho analisa a transformação contemporânea do contrato — de texto normativo a dado mensurável — à luz de autores que moldam o campo emergente do **Contract Analytics**. Trata-se de uma leitura crítica, que percorre o caminho entre eficiência técnica e justiça informacional.
+Esta aula apresenta a transformação contemporânea do contrato — de texto normativo a dado mensurável — à luz de autores que moldam o campo emergente do **Contract Analytics**. Trata-se de uma leitura crítica, que percorre o caminho entre eficiência técnica e justiça informacional.
 
 
 ## Contexto e Problema
@@ -99,116 +99,77 @@ O presente trabalho analisa a transformação contemporânea do contrato — de 
 - Há uma **universalização da racionalidade econômica**.  
 
 
-### 5. Implicações para o Acesso à Justiça
+## 5. Implicações para o Acesso à Justiça
 
 - O textualismo dificulta a proteção de partes vulneráveis.  
 - Reduz a capacidade dos juízes de equilibrar desigualdades.  
 - Torna o Direito Contratual previsível, porém menos justo.  
 
-**Notas de fala:**  
-Trazer a noção de *path dependence*: a padronização cria estabilidade, mas cristaliza vieses históricos e socioeconômicos.
 
-### 6. Crítica Epistemológica
+## 6. Crítica Epistemológica
 
 - A empiria revela que o Direito não é neutro, mas codifica relações de poder.  
 - O *Contract Analytics*, sem crítica, corre o risco de legitimar essas estruturas.  
 - A racionalidade técnica precisa ser substituída por uma **racionalidade reflexiva**.  
 
-**Notas de fala:**  
-Aqui é possível introduzir Habermas: a técnica deve ser mediada pela deliberação — caso contrário, converte-se em instrumento de dominação.
 
-### 7. Síntese Crítica de Ghodoosi & Kastner
+## 7. Síntese Crítica de Ghodoosi & Kastner
 
-- Contribuição: introduzem o empirismo crítico no Direito Contratual.  
+- Contribuição: introduzem o empirismo crítico no direito contratual.  
 - Mostram que a hermenêutica judicial reproduz o viés corporativo.  
 - Limitam-se, contudo, à descrição — ainda carecem de um modelo normativo alternativo.  
 
-**Notas de fala:**  
-Encerrar destacando que o passo seguinte será dado por autores que propõem a reflexão ética e epistemológica sobre a própria IA, como Eboigbe — e, mais adiante, a crítica técnico-epistemológica de Frankenreiter e Nyarko.
-
-## Conclusão Parcial da Parte I
+## Conclusão Parcial
 
 - Martin inaugura o paradigma técnico: o contrato como sistema.  
 - Ghodoosi & Kastner inauguram o paradigma crítico: o contrato como estrutura de poder.  
 - Ambos se situam em polos distintos da racionalidade jurídica contemporânea.  
 
-**Notas de fala:**  
-Fechar esta primeira parte com a transição: do contrato como objeto técnico ao contrato como campo de disputa social e epistemológica. Na Parte II, essa disputa será aprofundada com a introdução da IA, do NLP e da prática empírica brasileira.
 
----
----
-title: "Analytics de Contratos: Entre Eficiência, Poder e Justiça — Parte II"
-author: "Prof. José de Jesus Filho"
-format:
-  revealjs:
-    theme: white
-    transition: fade
-    slide-number: true
-bibliography: references.bib
----
-
-## Introdução à Parte II
+## Parte II
 
 Esta segunda parte aprofunda o debate epistemológico e ético inaugurado na Parte I. Após Martin e Ghodoosi & Kastner, o foco desloca-se para as novas fronteiras da inteligência artificial e do processamento de linguagem natural (NLP) no campo jurídico. Analisa-se também um estudo empírico brasileiro, que aplica IA generativa à análise de decisões judiciais sobre crédito consignado.
 
-**Notas de fala:**  
-Relembrar ao público que esta parte enfatiza os limites da automação jurídica e a necessidade de incorporar crítica e ética à racionalidade técnica.
-
 ## III. Eboigbe — A Racionalidade Instrumental da IA Jurídica
 
-### 1. Contexto e Objetivos
+## 1. Contexto e Objetivos
 
 - Artigo *AI in Legal Analytics* (SSRN, 2024).  
 - Eboigbe analisa a IA como instrumento de ampliação da racionalidade jurídica, não como substituto da interpretação humana.  
 - Propõe uma tipologia tripartida: **automação, predição e apoio estratégico.**  
 
-**Notas de fala:**  
-Eboigbe é otimista, mas sofisticado. Sua análise mostra que a IA pode reforçar a racionalidade jurídica, desde que acompanhada de mediação ética e supervisão humana.
-
-### 2. IA como Extensão da Racionalidade Jurídica
+## 2. IA como Extensão da Racionalidade Jurídica
 
 - A IA não é ruptura, mas continuidade da racionalidade moderna.  
 - O Direito sempre buscou previsibilidade e padronização.  
 - A automação representa o ápice desse impulso racionalizador.  
 
-**Notas de fala:**  
-A IA, em Eboigbe, encarna o ideal weberiano de racionalidade formal: eficiência, cálculo e controle. Contudo, o Direito não pode ser reduzido a isso.
-
-### 3. As Três Dimensões da IA Jurídica
+## 3. As Três Dimensões da IA Jurídica
 
 1. **Automação:** revisão de contratos, análise documental.  
 2. **Predição:** modelagem de resultados, avaliação de riscos.  
 3. **Apoio estratégico:** síntese e tomada de decisão.  
 
-**Notas de fala:**  
-Essas três dimensões revelam o deslocamento do jurista: de intérprete a gestor de sistemas. O conhecimento jurídico torna-se infraestrutural.
 
-### 4. Benefícios e Riscos
+## 4. Benefícios e Riscos
 
 - **Benefícios:** eficiência, redução de custos, consistência.  
 - **Riscos:** opacidade, enviesamento, concentração de poder técnico.  
 - Exige accountability algorítmica e governança ética.  
 
-**Notas de fala:**  
-Eboigbe propõe um equilíbrio entre técnica e responsabilidade. O jurista deve atuar como **curador semântico e normativo** — responsável por traduzir valores em código.
 
-### 5. Crítica Habermasiana
+## 5. Crítica Habermasiana
 
 - A racionalidade instrumental da IA precisa ser compensada por racionalidade comunicativa.  
 - A eficiência deve ser subordinada à deliberação.  
 - O Direito deve preservar seu núcleo discursivo.  
 
-**Notas de fala:**  
-Aqui o debate se torna filosófico. Habermas fornece o arcabouço normativo: a técnica deve ser mediada pela comunicação e pela ética do discurso.
 
-### 6. Síntese Crítica sobre Eboigbe
+## 6. Síntese Crítica sobre Eboigbe
 
 - A IA é inevitável, mas precisa ser institucionalmente enquadrada.  
 - A eficiência algorítmica não substitui a legitimidade discursiva.  
 - O futuro do jurista é a **curadoria epistêmica**, não a obsolescência.  
-
-**Notas de fala:**  
-Fechar a seção enfatizando que Eboigbe oferece uma via de reconciliação entre técnica e razão prática, distinta do tecnicismo de Martin e do empirismo crítico de Ghodoosi & Kastner.
 
 ## IV. Frankenreiter & Nyarko — O Limite Epistemológico do NLP Jurídico
 
@@ -218,75 +179,55 @@ Fechar a seção enfatizando que Eboigbe oferece uma via de reconciliação entr
 - Os autores questionam previsões sobre “robo-advogados” e “robo-juízes”.  
 - Argumentam que o NLP atual não possui compreensão normativa.  
 
-**Notas de fala:**  
-Frankenreiter e Nyarko desmontam o imaginário da substituição total. Demonstram que a IA jurídica ainda é incapaz de raciocínio jurídico genuíno.
 
-### 2. O Direito como Linguagem Especializada
+## 2. O Direito como Linguagem Especializada
 
 - O Direito é uma prática linguística altamente formalizada.  
 - O NLP opera por padrões estatísticos, não por semântica normativa.  
 - Os modelos reconhecem coocorrência, não significado jurídico.  
 
-**Notas de fala:**  
-O Direito exige contexto, valor e autoridade — dimensões ausentes nos modelos linguísticos. O algoritmo prevê, mas não interpreta.
-
-### 3. O Hiato Ontológico
+## 3. O Hiato Ontológico
 
 - Falta aos LLMs a capacidade de construir **ontologias jurídicas.**  
 - Não compreendem categorias como obrigação, ilicitude, dano.  
 - O raciocínio jurídico exige referência institucional e teleológica.  
 
-**Notas de fala:**  
-Explicar que o raciocínio jurídico não é puramente dedutivo: ele é prático e deliberativo. A IA carece de intencionalidade normativa.
-
-### 4. Obstáculos Estruturais
+## 4. Obstáculos Estruturais
 
 - Segmentação e hierarquia dos textos jurídicos.  
 - Escassez e viés dos dados.  
 - Ausência de benchmarks jurídicos (não há *Legal SuperGLUE*).  
 - Especificidade da linguagem jurídica.  
 
-**Notas de fala:**  
-Esses limites são técnicos, mas também epistemológicos: mostram que o Direito não pode ser integralmente reduzido à informação.
 
-### 5. O Papel do Jurista
+## 5. O Papel do Jurista
 
 - O jurista não desaparece: transforma-se em **curador de sentido.**  
 - A IA auxilia, mas não substitui a deliberação humana.  
 - A relação é colaborativa, não substitutiva.  
 
-**Notas de fala:**  
-Aqui se retoma a convergência com Eboigbe: a IA como coadjuvante, não protagonista. A autonomia interpretativa é o núcleo da prática jurídica.
 
-### 6. Síntese Crítica
+## 6. Síntese Crítica
 
 - Contribuição: desmistificação do NLP jurídico.  
 - Limite: mantém foco técnico, sem propor teoria normativa.  
 - Valor: fornece base empírica para uma teoria crítica do *Legal Tech*.  
 
-**Notas de fala:**  
-Encerrar apontando que essa crítica epistemológica prepara o terreno para o caso brasileiro, em que a IA é aplicada criticamente à análise judicial.
-
 ## V. MPSP — Jurimetria Contratual e Crédito Consignado
 
-### 1. Contexto e Objetivo
+## 1. Contexto e Objetivo
 
 - Relatório *Crédito consignado para pessoas idosas no Estado de São Paulo* (2024).  
 - Análise de **25.897 acórdãos** do TJSP.  
 - Uso de modelos generativos (GPT-4o-mini e Gemini).  
 - Aplicação prática da jurimetria crítica no Brasil.  
 
-**Notas de fala:**  
-Apresentar como estudo empírico ilustrativo: o Direito brasileiro também vive o desafio de equilibrar técnica e justiça, especialmente na proteção de vulneráveis.
-
-### 2. Metodologia
+## 2. Metodologia
 
 - Coleta automatizada de decisões judiciais.  
 - Classificação de provimento e identificação de partes idosas.  
 - Extração de variáveis: valor médio, tempo de tramitação, câmara julgadora.  
 
-**Notas de fala:**  
-Explicar o uso ético da IA: transparência metodológica, revisão humana e finalidade pública.
 
 ### 3. Resultados Principais
 
@@ -295,30 +236,22 @@ Explicar o uso ético da IA: transparência metodológica, revisão humana e fin
 - Tempo médio: 1 ano.  
 - Câmaras mais protetivas: 14ª, 22ª, 23ª e 38ª.  
 
-**Notas de fala:**  
-O padrão revela que a proteção judicial é desigual e dependente da câmara. Mostra a importância de diagnósticos empíricos para políticas públicas.
-
-### 4. Discussão Crítica
+## 4. Discussão Crítica
 
 - A IA pode reforçar ou revelar desigualdades.  
 - O uso crítico requer transparência e finalidade pública.  
 - A jurimetria é ferramenta de diagnóstico, não de julgamento.  
 
-**Notas de fala:**  
-Conectar à crítica de Ghodoosi & Kastner: a empiria deve servir à reflexão, não à legitimação do viés institucional.
-
-### 5. Implicações Éticas e Políticas
+## 5. Implicações Éticas e Políticas
 
 - Necessidade de governança algorítmica.  
 - Importância da explicabilidade e da revisão humana.  
 - A IA deve ser orientada por princípios constitucionais.  
 
-**Notas de fala:**  
-Reforçar que o papel do Ministério Público e da academia é garantir que a técnica sirva ao interesse público — evitando a tecnocracia jurídica.
 
 ## VI. Síntese Crítica e Conclusão Geral
 
-### 1. Comparação entre Autores
+## 1. Comparação entre Autores
 
 | Autor | Contribuição | Limite |
 |-------|---------------|---------|
@@ -328,33 +261,26 @@ Reforçar que o papel do Ministério Público e da academia é garantir que a t�
 | **Frankenreiter & Nyarko** | Limite epistemológico do NLP | Foco excessivo no diagnóstico técnico |
 | **MPSP** | Jurimetria aplicada e crítica institucional | Escala e replicabilidade limitadas |
 
-**Notas de fala:**  
-Usar este quadro como síntese integradora. Cada autor ocupa um ponto no espectro entre técnica e crítica. O desafio é construir um *Contract Analytics* reflexivo.
-
-### 2. Habermas e a Justiça Informacional
+## 2. Habermas e a Justiça Informacional
 
 - A racionalidade instrumental domina a IA jurídica.  
 - A racionalidade comunicativa deve reintroduzir ética e deliberação.  
 - O Direito é espaço de discurso, não apenas de cálculo.  
 
-**Notas de fala:**  
-Encerrar com Habermas: a legitimação jurídica depende da linguagem e da justificação pública. A IA deve ser meio de comunicação, não de dominação.
-
-### 3. Conclusão Final
+## 3. Conclusão Final
 
 - O *Contract Analytics* é um campo de disputa entre técnica e poder.  
 - A eficiência deve ser humanizada pela crítica.  
 - O jurista do século XXI é mediador entre algoritmo e justiça.  
 
-**Notas de fala:**  
-Fechar destacando que o futuro do Direito não está em substituir o humano, mas em redesenhar as instituições para integrar técnica, ética e política.
 
----
+## Referências
 
-**Referências**
 
 - Eboigbe, E. (2024). *AI in Legal Analytics*. SSRN.  
 - Frankenreiter, J. & Nyarko, J. (2023). *Natural Language Processing in Legal Tech*.  
+- Ghodoosi, F. & Kastner, T. (2024). *Big Data on Contract Interpretation*. *UC Davis Law Review*, 57(4).
+- Martin, K. (2018). *Deconstructing Contracts*. In Walters, E. (Ed.), *Data-Driven Law*. Routledge.
 - Ministério Público do Estado de São Paulo (2024). *Crédito consignado para pessoas idosas no Estado de São Paulo*. São Paulo.  
 - Zamir, E. (2019). *Behavioral Law and Economics*. Oxford University Press.  
 - Simon, H. (1962). *The Architecture of Complexity*. *Proceedings of the American Philosophical Society*.  
